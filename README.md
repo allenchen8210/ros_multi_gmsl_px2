@@ -27,8 +27,6 @@
         *    `$echo $LD_LIBRART_PATH`
         *    it have to show  like: `/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/aarch64-linux-gnu:/usr/lib`
 *    open another terminal 
-        *    `$roscore`
-*    open another terminal 
         *    `$cd catkin_ws`
         *    `$source /devel/setup.bash`
         *    `$roslaunch gmsl_n_cameras gmsl_n_cameras_two.launch`
